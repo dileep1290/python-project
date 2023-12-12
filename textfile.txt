@@ -1,0 +1,2 @@
+In this text file it contains all the information that belongs to the python program.
+The information will be add in so many stages for every stage it will contain new update like that.
